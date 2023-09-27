@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+
+body{
+
+	background-color:yellow;
+	Text-align:center;
+}
+
+#f1,#f2{
+	font-family:arial;
+	background-color:red;
+	border: 1px solid blue;
+	border-radius:10px;
+	font-weight:30px;
+}
